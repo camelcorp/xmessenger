@@ -2,8 +2,7 @@
 layout: null
 permalink: /.well-known/apple-app-site-association
 ---
-{% if 1 %}
-{
+{% if 1 %}{
     "applinks": {
         "details": [
             {
@@ -12,5 +11,4 @@ permalink: /.well-known/apple-app-site-association
             }
         ]
     }
-}
-{% endif %}
+}{% endif %}
