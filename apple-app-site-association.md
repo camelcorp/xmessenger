@@ -2,7 +2,7 @@
 layout: null
 permalink: /.well-known/apple-app-site-association
 ---
-{% if True %}
+{% if 1 %}
 {
     "applinks": {
         "details": [
