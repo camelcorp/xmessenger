@@ -3,7 +3,6 @@ include: ['apple-app-site-association.json']
 title: Camel Corporation
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://deserve.camel-corporation.com" # the base hostname & protocol for your site
-
 # Build settings
 markdown: kramdown
 permalink: /:year/:title:output_ext
